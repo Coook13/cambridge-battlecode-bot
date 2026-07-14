@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# local automation scratch — not part of the public history
+.battlecode_commit_queue.txt
+
+# match/debug artifacts, not meaningful showcase content
+*.log
+*.replay26
+*.map26
+replay_*.js
+replay_analysis*
